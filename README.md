@@ -4,4 +4,4 @@ This is our platform in order to generate recommandations in agriculture .
 
 ## Usage 
 - npm install --save
-- ng serve# frontAgri4IA
+- ng serve
